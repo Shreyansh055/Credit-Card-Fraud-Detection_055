@@ -4,7 +4,7 @@
 
 This project focuses on building a machine learning model to detect fraudulent credit card transactions. Using historical transaction data, the model identifies patterns that indicate potential fraud, ensuring better accuracy in detecting anomalies and minimizing false positives. The solution leverages supervised learning techniques and statistical analysis to improve fraud detection efficiency.
 
-## 
+## Features
 
 - **Data Preprocessing**: Handling imbalanced datasets using techniques like SMOTE (Synthetic Minority Over-sampling Technique) to ensure model fairness.
 - **Machine Learning Models**: Implementation of various algorithms such as Logistic Regression, Decision Trees, Random Forest, and Gradient Boosting for fraud detection.
